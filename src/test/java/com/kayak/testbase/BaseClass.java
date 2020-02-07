@@ -9,8 +9,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
-import com.hrms.utils.ConfigsReader;
-import com.hrms.utils.Constants;
+import com.kayak.utils.ConfigsReader;
+import com.kayak.utils.Constants;
 
 public class BaseClass{
 
